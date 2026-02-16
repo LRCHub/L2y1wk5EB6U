@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Jaded",
+  "base_artist": "Drake",
+  "createdAt": "2026-02-16T19:56:49.411171Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jaded",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/01_Jaded_Drake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jaded",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/02_Jaded_Aerosmith.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jaded",
+      "artist": "The Crystal Method",
+      "has_synced": false,
+      "path": "select/03_Jaded_The_Crystal_Method.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jaded",
+      "artist": "Disclosure",
+      "has_synced": true,
+      "path": "select/04_Jaded_Disclosure.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Jaded",
+      "artist": "Doomtree",
+      "has_synced": true,
+      "path": "select/05_Jaded_Doomtree.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jaded Heart",
+      "artist": "Dokken",
+      "has_synced": true,
+      "path": "select/06_Jaded_Heart_Dokken.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jaded",
+      "artist": "Paradise Lost",
+      "has_synced": false,
+      "path": "select/07_Jaded_Paradise_Lost.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jaded",
+      "artist": "The Obsessed",
+      "has_synced": false,
+      "path": "select/08_Jaded_The_Obsessed.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jaded Entity",
+      "artist": "Cathedral",
+      "has_synced": true,
+      "path": "select/09_Jaded_Entity_Cathedral.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jaded",
+      "artist": "Donots",
+      "has_synced": true,
+      "path": "select/10_Jaded_Donots.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Jaded",
+      "artist": "Walls of Jericho",
+      "has_synced": true,
+      "path": "select/11_Jaded_Walls_of_Jericho.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Brain Stew/Jaded - Live",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/12_Brain_Stew_Jaded_-_Live_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Brain Stew\u0000Jaded (Live)",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/13_Brain_Stew\u0000Jaded_(Live)_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Jaded",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/14_Jaded_Green_Day.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Jaded",
+      "artist": "Drake",
+      "has_synced": false,
+      "path": "select/pl_01_Jaded_Drake.txt"
+    }
+  ]
+}

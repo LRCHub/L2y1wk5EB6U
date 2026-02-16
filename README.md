@@ -1,0 +1,73 @@
+# Drake – Jaded
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.08] Ayy, yeah
+[00:06.77] Dogs on this side, dogs over on this side
+[00:10.90] Yeah
+[00:15.59] Leavin' me (leavin' me)
+[00:18.39] Dippin' out on me (on me)
+[00:20.40] Already got what you needed, I guess
+[00:24.15] Quickly (quickly) learned yourself through me (through me)
+[00:28.49] Already gave you what you needed, I guess (ooh, yeah)
+[00:32.75] I guess, (yeah) yeah
+[00:35.19] That's why I'm not with nobody (ooh, yeah)
+[00:38.13] 'Cause I don't wanna hurt nobody (ooh, yeah)
+[00:39.91] Did it over text, didn't call me (ooh, yeah)
+[00:42.28] Still got love for you, mami
+[00:43.94] I know you wanna be somebody
+[00:45.84] Even if you gotta leave somebody (body), yeah
+[00:51.62] Yes, I'm hurtin', yes, I'm jaded (jaded)
+[00:55.26] Most of these things I don't wanna say (jaded)
+[00:58.59] I wanna be around while you chasin' (while you chasin' it)
+[01:02.47] You wanna hit me up when you make it
+[01:06.92] You'll try and come back when you famous
+[01:10.92] I always want the truth, but it's dangerous (dangerous, oh)
+[01:15.80] You got somethin' real, not basic (ooh, yeah)
+[01:18.75] You wanna get with me, stop
+[01:22.21] Yes, I'm hurtin', yes, I'm jaded (jaded)
+[01:26.89] Most of these things, I don't wanna say (say)
+[01:31.58] I wanna be around while you chasin'
+[01:35.43] (Wanna be around, wanna be around)
+[01:36.72] You wanna hit me up when you make it (ooh, yeah)
+[01:40.62] You'll try and come back when you famous
+[01:43.15] (Back around, back around)
+[01:44.94] I always want the truth, but it's dangerous (dangerous)
+[01:48.13] You got somethin' real, not basic
+[01:51.69] You wanna get with me, stop (playin')
+[01:58.23] Yeah, dogs on this side, dogs over on this side
+[02:07.08] (Ooh yeah, ooh yeah, ooh yeah)
+[02:11.66] Ayy, told me about all your insecurities, for what?
+[02:16.97] Dragged me like two hours to your family's house, for what?
+[02:20.86] Said you need some time but I should stick around, for what?
+[02:24.91] Always felt like stickin' 'round's the same as being stuck
+[02:31.14] And like guns with the inkin', you get in under my skin
+[02:35.10] Pretty little young thing (young thing)
+[02:37.35] Had a nigga convinced, got me too excited
+[02:41.90] Yeah, you played me, you played me, you played me
+[02:49.07] Low down, dirty, shameful, crazy
+[02:52.04] I need to know how the new nigga you got does the same thing
+[02:56.18] I do for a living but it's way less wavy
+[02:59.41] How you even managin' to keep straight faces
+[03:02.03] In all the pictures that I seen lately
+[03:04.36] Lord knows, you still look amazin'
+[03:06.46] That's besides the point I'm makin'
+[03:08.40] You're way too opinionated
+[03:10.39] Have to force it, have to fake it
+[03:12.60] You have potential, I coulda shaped it
+[03:16.74] You went and caved in (ooh, yeah)
+[03:18.80] We coulda waited, I wasn't rushin', differences in ages
+[03:22.86] You're old enough, but you're still a baby
+[03:26.10] You've shared stories where you did amazin'
+[03:29.19] Things to be loyal, things to be patient
+[03:32.31] That was before me, I must've changed it
+[03:35.37] Shifted your focus, lens lookin' jaded (jaded)
+[03:40.39] Most of these things I don't wanna say
+[03:45.08] I wanna be around while you chasin' (while you chasin')
+[03:48.73] You wanna hit me up when you make it
+[03:51.54] You'll try and come back when you famous
+[03:55.00] (Back around, back around)
+[04:06.00] Dogs on this side, dogs over on this side
+[04:13.77] You wanna get with me, stop (playin')
+```
